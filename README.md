@@ -21,6 +21,7 @@ We want to developed solutions to improve the current disaster response systems 
 
 
 ### Contributers
+- [Abhipray Singh](https://github.com/AbhiprayIITP)
 - [Piyush Chauhan](https://github.com/piyushchauhan)
 - [Arya Das](https://github.com/aryadas98)
 - [Vatsal Singhal](https://github.com/VatsalSin/)
