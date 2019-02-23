@@ -1,7 +1,7 @@
 # UAVs for Disaster Management
 
 ### Aim
-. UAV for disaster management is a project planned under IoT society of DSC IIT Patna in which we are planning to make a autopilot drone that would move in a disaster affected area and will figure out the group of people requiring help. This drone will then send GPS coordinates to rescue team making their task of locating people easy,
+UAV for disaster management is a project planned under IoT society of DSC IIT Patna in which we are planning to make a autopilot drone that would move in a disaster affected area and will figure out the group of people requiring help. This drone will then send GPS coordinates to rescue team making their task of locating people easy,
 
 ### Impact
 This project is aimed to solve the real world problem of saving human lives in natural disasters. We intend to use drones powered with Artificial Intelligence and Computer Vision.
