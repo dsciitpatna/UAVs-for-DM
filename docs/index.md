@@ -8,7 +8,7 @@ This project is aimed to solve the real world problem of saving human lives in n
 We want to developed solutions to improve the current disaster response systems by creating an end-to-end system for providing accurate and critical information as swiftly as possible to the relief task forces making there work more efficient and saving many lives.
 
 <table>
-  <tr><td width="50%" style="text-align:center"><img src="drone.jpg" height="300px"/></td><td width="50%" style="text-align:center"><img src="path_planning.gif" height="300px"/></td></tr>
+  <tr><td width="50%" style="text-align:center"><img src="../drone.jpg" height="300px"/></td><td width="50%" style="text-align:center"><img src="../path_planning.gif" height="300px"/></td></tr>
   <tr><td style="text-align:center"><b>Drone platform</b></td><td style="text-align:center"><b>Path Planning Simulation in V-REP</b></td></tr>
 </table> 
 
