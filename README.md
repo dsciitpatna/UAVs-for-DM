@@ -12,6 +12,17 @@ We want to developed solutions to improve the current disaster response systems 
   <tr><td style="text-align:center"><b>Drone platform</b></td><td style="text-align:center"><b>Path Planning Simulation in V-REP</b></td></tr>
 </table> 
 
+## Demo 
+
+### Loiter aka GPS Lock Mode
+*Click to see video*
+[![Watch the video](https://img.youtube.com/vi/YufSoh0rm08/maxresdefault.jpg)](https://youtu.be/YufSoh0rm08)
+
+### Tracing the Flight plane autonomously
+*Click to see video*
+[![Watch the video](https://img.youtube.com/vi/0DJAcaTvqDM/maxresdefault.jpg)](https://youtu.be/0DJAcaTvqDM)
+
+
 ### Dependencies
 - OpenPose v1.4.0
 - APM Mission Planner v2.0
@@ -19,7 +30,7 @@ We want to developed solutions to improve the current disaster response systems 
 ### TODO
 - [x] Make/Find a Drone with required features
 - [x] Make the drone stable using GPS Lock
-- [ ] Fly the drone on a flight plan autonomously
+- [x] Fly the drone on a flight plan autonomously
 - [ ] Get continuous video feed from the camera on drone onto a remote computer using Wi-Fi
 - [x] Apply Pose Estimation and get key points of everybody in the frame
 
