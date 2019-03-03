@@ -40,6 +40,7 @@ We want to developed solutions to improve the current disaster response systems 
 - [Piyush Chauhan](https://github.com/piyushchauhan)
 - [Arya Das](https://github.com/aryadas98)
 - [Vatsal Singhal](https://github.com/VatsalSin/)
+- [Srija Karmakar](https://github.com/ajirk/)
 
 ### License
 This repository is under [MIT License](LICENSE)
