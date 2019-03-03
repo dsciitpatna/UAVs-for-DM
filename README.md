@@ -35,9 +35,9 @@ We want to developed solutions to improve the current disaster response systems 
 - [x] Apply Pose Estimation and get key points of everybody in the frame
 
 
-### Contributers
-- [Abhipray Singh](https://github.com/AbhiprayIITP)
+### Maintainers
 - [Piyush Chauhan](https://github.com/piyushchauhan)
+- [Abhipray Singh](https://github.com/AbhiprayIITP)
 - [Arya Das](https://github.com/aryadas98)
 - [Vatsal Singhal](https://github.com/VatsalSin/)
 
