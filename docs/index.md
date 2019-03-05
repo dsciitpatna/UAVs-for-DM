@@ -30,7 +30,7 @@ We want to developed solutions to improve the current disaster response systems 
 ### TODO
 - [x] Make/Find a Drone with required features
 - [x] Make the drone stable using GPS Lock
-- [ ] Fly the drone on a flight plan autonomously
+- [x] Fly the drone on a flight plan in auto mode
 - [ ] Get continuous video feed from the camera on drone onto a remote computer using Wi-Fi
 - [x] Apply Pose Estimation and get key points of everybody in the frame
 
