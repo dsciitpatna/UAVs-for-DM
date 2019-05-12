@@ -26,9 +26,21 @@ We want to developed solutions to improve the current disaster response systems 
 *Click image to see video*
 [![Watch the video](https://img.youtube.com/vi/0DJAcaTvqDM/maxresdefault.jpg)](https://youtu.be/0DJAcaTvqDM)
 
+### SPECIFICATIONS
+The following components are used on the Drone:
+1. **Pixhawk 4** : Firmware of the drone runs on PixHawk and it controls the speed of motors through Electronics Speed Controllers(ESCs) by taking the signal from Remote Controller.
+2. **Raspberry Pi 3** : It connects to a base station and then transmits the video feed from the camera and then Video is process on the base station. 
+3. **USB Camera** : to get the video feed)
+4. **PPM Encoder**: To make Radio Communication possible for controlling the drone manually.
+5. **Electronic Speed Controllers(ESC)** : They are used to give controlled current supply to the motors of the drone.
+6. **Motors and Propellers**: They control the thrust and throttle of the drone. 
+7. **GPS Module**: It return the coordinates of the position of the Drone. It is a very integral part as it is used for stabilization of the drone in Loitre mode (aka GPS Lock mode). Pixhawk gives a green fast blinking lights when the GPS is connected to more than 12 different satellites and green slow blinking when it is getting connection from 6 different satellites.
+
+
 ### Dependencies
 - OpenPose v1.4.0
 - APM Mission Planner v2.0
+- MAV Link
 
 ### TODO
 - [x] Make/Find a Drone with required features
@@ -36,8 +48,6 @@ We want to developed solutions to improve the current disaster response systems 
 - [x] Fly the drone on a flight plan in auto mode
 - [x] Get continuous video feed from the camera on drone onto a remote computer using Wi-Fi
 - [x] Apply Pose Estimation and get key points of everybody in the frame
-
-
 
 ### Contributers
 - [Abhipray Singh](https://github.com/AbhiprayIITP)
