@@ -1,5 +1,8 @@
 # UAVs for Disaster Management
 
+### Overview
+Ever thought that we can deploy drones to find humans who are in need of help during a disaster? We are here with a solution which can assist rescue operations to find needy people faster with our drones that can scan the disaster affected areas and send useful information like GPS coordinates where help is required and images of the people who need it, all of it in real time.   
+
 ### Aim
 UAV for disaster management is a project planned under IoT society of DSC IIT Patna in which we are planning to make a autopilot drone that would move in a disaster affected area and will figure out the group of people requiring help. This drone will then send GPS coordinates to rescue team making their task of locating people easy,
 
@@ -7,12 +10,13 @@ UAV for disaster management is a project planned under IoT society of DSC IIT Pa
 This project is aimed to solve the real world problem of saving human lives in natural disasters. We intend to use drones powered with Artificial Intelligence and Computer Vision.
 We want to developed solutions to improve the current disaster response systems by creating an end-to-end system for providing accurate and critical information as swiftly as possible to the relief task forces making there work more efficient and saving many lives.
 
-<table>
-  <tr><td width="50%" style="text-align:center"><img src="../drone.jpg" height="300px"/></td><td width="50%" style="text-align:center"><img src="../path_planning.gif" height="300px"/></td></tr>
-  <tr><td style="text-align:center"><b>Drone platform</b></td><td style="text-align:center"><b>Path Planning Simulation in V-REP</b></td></tr>
-</table> 
+<img src="../drone.jpg" height="300px"/>
 
 ## Demo 
+
+### Video feed from the Drone
+*Click to see video*
+<a href="https://youtu.be/8RL791OQS6Y"><img src="../droneFeed.jpg" height="300px"/></a>
 
 ### Loiter aka GPS Lock Mode
 *Click to see video*
@@ -22,7 +26,6 @@ We want to developed solutions to improve the current disaster response systems 
 *Click to see video*
 [![Watch the video](https://img.youtube.com/vi/0DJAcaTvqDM/maxresdefault.jpg)](https://youtu.be/0DJAcaTvqDM)
 
-
 ### Dependencies
 - OpenPose v1.4.0
 - APM Mission Planner v2.0
@@ -31,8 +34,9 @@ We want to developed solutions to improve the current disaster response systems 
 - [x] Make/Find a Drone with required features
 - [x] Make the drone stable using GPS Lock
 - [x] Fly the drone on a flight plan in auto mode
-- [ ] Get continuous video feed from the camera on drone onto a remote computer using Wi-Fi
+- [x] Get continuous video feed from the camera on drone onto a remote computer using Wi-Fi
 - [x] Apply Pose Estimation and get key points of everybody in the frame
+
 
 
 ### Contributers
