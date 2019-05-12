@@ -10,20 +10,20 @@ UAV for disaster management is a project planned under IoT society of DSC IIT Pa
 This project is aimed to solve the real world problem of saving human lives in natural disasters. We intend to use drones powered with Artificial Intelligence and Computer Vision.
 We want to developed solutions to improve the current disaster response systems by creating an end-to-end system for providing accurate and critical information as swiftly as possible to the relief task forces making there work more efficient and saving many lives.
 
-<img src="../drone.jpg" height="300px"/>
+<img src="drone.jpg" height="300px"/>
 
 ## Demo 
 
 ### Video feed from the Drone
-*Click to see video*
-<a href="https://youtu.be/8RL791OQS6Y"><img src="../droneFeed.jpeg" height="300px"/></a>
+*Click image to see video*
+<a href="https://youtu.be/8RL791OQS6Y"><img src="droneFeed.jpeg" height="300px"/></a>
 
 ### Loiter aka GPS Lock Mode
-*Click to see video*
+*Click image to see video*
 [![Watch the video](https://img.youtube.com/vi/YufSoh0rm08/maxresdefault.jpg)](https://youtu.be/YufSoh0rm08)
 
 ### Tracing the Flight plane autonomously
-*Click to see video*
+*Click image to see video*
 [![Watch the video](https://img.youtube.com/vi/0DJAcaTvqDM/maxresdefault.jpg)](https://youtu.be/0DJAcaTvqDM)
 
 ### Dependencies
