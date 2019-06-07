@@ -55,5 +55,8 @@ The following components are used on the Drone:
 - [Arya Das](https://github.com/aryadas98)
 - [Vatsal Singhal](https://github.com/VatsalSin/)
 
+### Credits
+This project was inspired from [Ayush Maniar](https://www.linkedin.com/in/ACoAACX1TfkBDERpyu7ckPGSmQ8KjmQItRGShpA/) and his team at IIT Madras. Their work on UAVs for Disaster Management is been taken to Indian Army.
+
 ### License
 This repository is under [MIT License](LICENSE)
