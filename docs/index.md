@@ -16,7 +16,7 @@ We want to developed solutions to improve the current disaster response systems 
 
 ### Video feed from the Drone
 *Click image to see video*
-<a href="https://youtu.be/8RL791OQS6Y"><img src="droneFeed.jpeg" height="300px"/></a>
+<a href="https://youtu.be/8RL791OQS6Y"><img src="demo.gif" height="300px"/></a>
 
 ### Loiter aka GPS Lock Mode
 *Click image to see video*
